@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+header{
+    height: 700px;
+}
+.logo-full{
+    background-image: url(../images/bg-desktop.svg);
+    height: 100vh;
+    background-color: #674BB1;
+    height: 700px;
+}
+.logo img{
+    margin-top: -40px;
+}
+#size img{
+    height: 470px;
+    width: 100%;
+    margin-right: 50px;
+}
+
+.text-sizing{
+    color: white;
+    font-weight: 500;
+}
+
+.text-sizing h2{
+    line-height: 50px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.text-sizing button{
+    margin-top: 15px;
+    padding: 8px 55px;
+    color: #674BB1;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
